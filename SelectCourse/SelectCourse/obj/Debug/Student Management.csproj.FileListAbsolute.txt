@@ -1,0 +1,63 @@
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmCourse.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmDataBase.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmLogin.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmExplain.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmHelp.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmMain.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmRegist.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmSelectCourse.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmStudent.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmUser.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\Student Management.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmChangePassword.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmGrade.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmOnlyGarde.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\Student Management.exe.config
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\Student Management.exe
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\Student Management.pdb
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\Student Management.exe
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\Student Management.pdb
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.exe.config
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.exe
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.pdb
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.exe
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.pdb
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmChangePassword.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmCourse.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmDataBase.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmGrade.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmLogin.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmExplain.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmHelp.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmMain.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmOnlyGarde.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmRegist.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmSelectCourse.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmStudent.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmUser.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.Properties.Resources.resources
+C:\Users\lenovo\Desktop\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.exe.config
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.exe
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.pdb
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.exe
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\bin\Debug\Student Management.pdb
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmChangePassword.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmCourse.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmDataBase.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmGrade.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmLogin.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmExplain.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmHelp.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmMain.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmOnlyGarde.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmRegist.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmSelectCourse.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmStudent.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmUser.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\SelectCourse.Properties.Resources.resources
+C:\Users\lenovo\Desktop\EvERYtHING\TeachYourself\Projects sql c#\SelectCourse\SelectCourse\SelectCourse\obj\Debug\Student Management.csproj.GenerateResource.Cache

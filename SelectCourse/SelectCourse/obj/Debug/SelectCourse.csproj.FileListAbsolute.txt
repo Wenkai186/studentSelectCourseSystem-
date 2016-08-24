@@ -1,0 +1,17 @@
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\SelectCourse.exe
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\SelectCourse.pdb
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.exe
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.pdb
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmLogin.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmMain.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmExplain.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmHelp.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmRegist.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmUser.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\bin\Debug\SelectCourse.exe.config
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmStudent.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmCourse.resources
+E:\Visual Studio 2008\Projects\SelectCourse\SelectCourse\obj\Debug\SelectCourse.FrmDataBase.resources
